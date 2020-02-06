@@ -7,8 +7,18 @@ public class ArrayPractice2 {
      */
     public static int[] exchange() {
         int[] array = new int[]{10, 8, 1, 7, 0, 20, 16, 19};
-
-
-        return null;
+        int max = array[0];
+        for (int i = 1; i < array.length; i++) {
+            if (max < array[i]) {
+                max = array[i];
+            }
+            for (int e = 0; e < array.length; e++) {
+                if (array[e] == max) {
+                    array[e] = array[0];
+                    array[0] = max;
+                }
+            }
+        }
+return array;
     }
 }

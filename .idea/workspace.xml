@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4659b72-edfa-4449-b572-c123b5ad9708" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/001_array/src/main/java/com/thoughtworks/ArrayPractice4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="git.001_array.main" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XODz3sCq1f9YzPgzTvAgipwCFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.ArrayPractice2Test">
+    <configuration name="ArrayPractice2Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.ArrayPractice2Test&quot; --info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":001_array:cleanTest" />
+            <option value=":001_array:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayPractice2Test.should_return_int_array_correctly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.ArrayPractice2Test.should_return_int_array_correctly&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":001_array:cleanTest" />
+            <option value=":001_array:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayPractice3Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.ArrayPractice3Test&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":001_array:cleanTest" />
+            <option value=":001_array:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayPractice4Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.ArrayPractice4Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":001_array:cleanTest" />
+            <option value=":001_array:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ArrayPractice2Test" />
+        <item itemvalue="Gradle.ArrayPractice3Test" />
+        <item itemvalue="Gradle.ArrayPractice4Test" />
+        <item itemvalue="Gradle.ArrayPractice2Test.should_return_int_array_correctly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4659b72-edfa-4449-b572-c123b5ad9708" name="Default Changelist" comment="" />
+      <created>1580908506301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580908506301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="76" key="#Project_Structure" timestamp="1580908703165">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="640" y="76" key="#Project_Structure/0.23.1440.794@0.23.1440.794" timestamp="1580908703165" />
+    <state x="214" y="148" key="#Servers" timestamp="1580909492102">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="214" y="148" key="#Servers/0.23.1440.794@0.23.1440.794" timestamp="1580909492102" />
+    <state x="186" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580912590239">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="186" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.794@0.23.1440.794" timestamp="1580912590239" />
+    <state x="274" y="23" key="CommitChangelistDialog2" timestamp="1580912570551">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="274" y="23" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1580912570551" />
+    <state x="91" y="127" width="1240" height="594" key="DiffContextDialog" timestamp="1580956444836">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="91" y="127" width="1240" height="594" key="DiffContextDialog/0.23.1440.794@0.23.1440.794" timestamp="1580956444836" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1580958043626">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1580958043626" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1580958043625">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1580958043625" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1580958043625">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1580958043625" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1580958043626">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1580958043626" />
+    <state x="108" y="23" key="SettingsEditor" timestamp="1580958336283">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="108" y="23" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1580958336283" />
+    <state x="514" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580908884138">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="514" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.794@0.23.1440.794" timestamp="1580908884138" />
+    <state x="916" y="337" key="extract.method.dialog" timestamp="1580913014050">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="916" y="337" key="extract.method.dialog/0.23.1440.794@0.23.1440.794" timestamp="1580913014050" />
+    <state x="12" y="23" key="new project wizard" timestamp="1580909571025">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="12" y="23" key="new project wizard/0.23.1440.794@0.23.1440.794" timestamp="1580909571025" />
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup" timestamp="1580953679566">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1580953679566" />
+  </component>
+</project>

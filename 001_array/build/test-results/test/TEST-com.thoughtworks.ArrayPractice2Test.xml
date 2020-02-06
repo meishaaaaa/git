@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.ArrayPractice2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-06T03:00:45" hostname="meishadeMacBook-Air.local" time="0.034">
+  <properties/>
+  <testcase name="should_return_int_array_correctly()" classname="com.thoughtworks.ArrayPractice2Test" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
